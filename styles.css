@@ -1,0 +1,35 @@
+.carrusel{
+    height: 900px;
+    width: 100%;
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
+div a{
+    color: white;
+    
+}
+.fondo{
+    background: #54c0da;
+    content: center;
+}
+.imagen{
+    height: 300px;
+    width: 600px;
+}
+.botono{
+    margin-left: 10px;
+}
+.carrusel2{
+    height: 300px;
+    width: 600px;
+}
+.orden{
+    margin-left: 30px;
+}
+.formulario{
+    margin-top: 0.9%;
+    margin-left: 30%;
+    margin-right: 10%;
+}
